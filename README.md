@@ -23,3 +23,4 @@ http-server
 ```
 
 Go to [http://localhost:8080](http://localhost:8080)
+https://tonyspiro.com/building-a-simple-react-application-using-the-flux-pattern/
